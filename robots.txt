@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pnkjewellery.github.io/sitemap.xml
